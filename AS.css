@@ -1,0 +1,40 @@
+H1 {
+	border: 2px solid;
+	height: 300;
+	background-color: yellow;
+}
+
+body {
+	background-color: #cccccc;
+}
+
+a {
+	text-decoration: none;
+	background-color: blueviolet;
+	color: yellow;
+	text-align: center;
+	margin: 20px;
+	border-radius: 20px 60px;
+	width: ;
+
+}
+
+h2 {
+	border: solid 20px colore red
+}
+
+main {
+	background-color: yellow;
+	width: 60px;
+}
+form{
+	border: 20px; columns: inherit;
+	width: 250px;
+	height: 250px;
+	background-color: #48cae4;
+	font-size: 200; color: black;
+}
+.c{
+	width: 500px;
+	height: 300px;
+}
